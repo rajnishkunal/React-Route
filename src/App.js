@@ -9,7 +9,7 @@ import MainHeader from './component/MainHeader';
 function App() {
   return (
    
-    <div>
+    <div className='Screen'>
      <nav>
       <ul>
           <li><NavLink to="/">Home</NavLink></li>
